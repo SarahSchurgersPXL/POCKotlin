@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Product Catalogus</string>
+    <string name="price_format">€%.2f</string>
+    <string name="zoek_product">Zoek product...</string>
+</resources>
